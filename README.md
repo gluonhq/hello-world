@@ -1,7 +1,8 @@
 Hello World
 ===========
 
-A Hello World demonstrating JavaFX running on desktop and mobile devices.
+A Hello World demonstrating JavaFX running on desktop and mobile devices. This simple project 
+is used in the Gluon Getting Started guide at http://docs.gluonhq.com/getting-started/
 
 Instructions
 ------------
